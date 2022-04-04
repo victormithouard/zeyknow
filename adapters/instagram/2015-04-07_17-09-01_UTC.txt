@@ -1,0 +1,5 @@
+In December's creative tools update, we introduced five new filters and brought you the ability to tweak perspective as part of the Adjust tool. Today, we bring you two new creative tools: Color and Fade.
+
+Use the Color tool to tint the highlights or shadows in your photo. You can choose from yellow, orange, red, pink, purple, blue, cyan or green to add a colorful flair to the moments you share. The Fade tool allows you to bring a quiet tone to your photos by softening colors.
+
+Instagram for Android version 6.19.0 is available today on Google Play, and Instagram for iOS version 6.10.0 will be available in a few days in Apple’s App Store.
